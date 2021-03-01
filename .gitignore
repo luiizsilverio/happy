@@ -1,2 +1,6 @@
 .vercel
 node_modules
+*.rar
+*.zip
+.rar
+.zip
