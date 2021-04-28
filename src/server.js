@@ -34,7 +34,8 @@ server
 // ligar o servidor
 //server.listen(5500)
 //server.listen(5500, () => {
-server.listen(process.env.PORT, () => {
+//server.listen(process.env.PORT, () => {
+server.listen(5500, () => {
     console.log('Happy rodando na porta 5500')
 })
 
