@@ -1,4 +1,10 @@
-# happy
+<table>
+  <tr>
+    <td><img src="https://github.com/luiizsilverio/happy-react/blob/main/src/images/marker.svg" /></td>
+    <td><h1>Happy</h1></td>
+  </tr>
+</table>
+
 ## Conteúdo
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Tecnologias](#hammer_and_wrench-tecnologias)
