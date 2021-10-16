@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/luiizsilverio/happy-react/blob/main/src/images/marker.svg" /></td>
+    <td><img src="https://github.com/luiizsilverio/happy/blob/main/public/images/map-marker.svg" /></td>
     <td><h1>Happy</h1></td>
   </tr>
 </table>
